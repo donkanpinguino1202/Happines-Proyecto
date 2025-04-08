@@ -420,11 +420,13 @@ footer .end{
     display: flex;
     color: #FFD700;
     justify-content: space-between;
+    align-items: center;
     padding-left: 40px;
 }
 
 footer .imagenes {
- color: #FFD700;
+    filter: invert(76%) sepia(97%) saturate(471%) hue-rotate(0deg);
+    margin-left: 1660px;
 }
 
 footer img{
