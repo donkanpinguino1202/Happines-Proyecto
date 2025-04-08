@@ -404,8 +404,11 @@ footer .listas{
     display: flex;
     color:#FFD700;
     margin-top: 200px;
-    align-items: center;
     justify-content: center;
+}
+
+footer img{
+   margin-left: 25px;
 }
 
 footer .listas li{
@@ -424,13 +427,9 @@ footer .end{
     padding-left: 40px;
 }
 
-footer .imagenes {
+footer .plataformas {
     filter: invert(76%) sepia(97%) saturate(471%) hue-rotate(0deg);
-    margin-left: 1660px;
-}
-
-footer img{
-   margin-left: 25px;
+    margin-left: 1600px;
 }
 
 
